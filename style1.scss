@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first_box{
+    background-color: azure;
+        div.title{
+            padding: 25px 50px 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            text-align: center;
+            font-style: normal;
+                h1{
+                    font-size: 32px;
+                    line-height: 40px;
+                    font-weight: 800;
+                    text-transform: uppercase;
+                    padding-bottom: 20px;
+                }
+
+                span{
+                    width: 51%;
+                    font-size: 18px;
+                    line-height: 22px;
+                }
+
+                img{
+                    padding-top: 20px;
+                    width: 640px;
+                }
+        }
+}
+
+
+.second_box{
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 75px 60px;
+    gap: 20px;
+        img{
+            height: 640px;
+        }
+        span{
+            font-size: 20px;
+            width: 15%;
+        }
+}
+
+.third_box{
+    background-color: bisque;
+    padding: 30px auto 30px;
+    text-align: center;
+}
