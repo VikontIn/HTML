@@ -1,0 +1,33 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  background-color: azure;
+}
+
+.title {
+  padding: 25px 50px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  font-style: normal;
+}
+
+.tab {
+  display: flex;
+  justify-content: center;
+  font-size: 22px;
+  padding-bottom: 20px;
+}
+
+.imagine {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 25px;
+}
+.imagine .img3 {
+  display: flex;
+  text-align: center;
+  border: 3px solid blue;
+}/*# sourceMappingURL=styles_cont.css.map */
